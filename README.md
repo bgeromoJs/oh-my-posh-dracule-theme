@@ -1,12 +1,12 @@
 # oh-my-posh-dracule-theme
 
+
 {
     "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
     "blocks": [
       {
         "alignment": "left",
         "segments": [
-
           {
             "background": "#41ba60",
             "foreground": "#000",
@@ -72,3 +72,4 @@
     ],
     "version": 2
 }
+
